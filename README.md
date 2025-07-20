@@ -59,7 +59,7 @@ flutter run
 ![screenshot4](assets/screenshots/screenshot4.jpg)
 ![screenshot5](assets/screenshots/screenshot5.jpg)
 ![screenshot6](assets/screenshots/screenshot6.jpg)
-[screenshot7](assets/screenshots/screenshot7.jpg)
+![screenshot7](assets/screenshots/screenshot7.jpg)
 ![screenshot8](assets/screenshots/screenshot8.jpg)
 ![screenshot9](assets/screenshots/screenshot9.jpg)
 ![screenshot10](assets/screenshots/screenshot10.jpg)
