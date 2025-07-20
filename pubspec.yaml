@@ -57,7 +57,7 @@ dev_dependencies:
 flutter_launcher_icons:
     android: "launcher_icon"
     ios: true
-    image_path: "image/applogo.jpg"
+    image_path: "assets/image/applogo.jpg"
     adaptive_icon_background: "#FFFFFF"
     adaptive_icon_foreground: "image/1024.png"
     min_sdk_android: 21
@@ -76,11 +76,9 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - image/applogo.jpg
-    - image/1024.png
-    - image/pr1.jpg
-    - image/pr2.jpeg
-    - image/pr3.png
+    - assets/images/
+    - assets/screenshots/
+
 #     - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
